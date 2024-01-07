@@ -12,13 +12,10 @@
 
 ### project
 
-- **Captcah Hacking**
-- **Web Crolling (Naver Movie Review Data Analysis)**
+- **[Captcah Hacking]()**
+- **[Web Crolling (Naver Movie Review Data Analysis)]()**
 
 ### what I've learned
 
-- [Numpy]()
-- [OpenCV]()
-- [KNN]()
-- [Pandas]()
-- [Matplotlib]()
+- **[OpenCV](https://seungw00lee.github.io/ai/computer%20vision/first/)**
+- **[KNN]()**
